@@ -9,4 +9,5 @@ void main()
     for(i=n;i>0;i=i/10)
         sum=sum+i%10;
     printf("Sum of digits of %d=%d",n,sum);
+    printf("HELLO ASSHOLE");
 }
